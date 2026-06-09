@@ -80,26 +80,6 @@ I'm working on getting this plugin more directly implemented with Ground Markers
 
 Please feel free to make suggestions, report bugs, or fork the plugin.
 
-## Development
+## Credits & Donations
 
-Until this plugin is approved for installation directly in RuneLite, you may run the plugin locally with:
-
-```bash
-./gradlew run
-```
-
-On Windows:
-
-```powershell
-.\gradlew run
-```
-
-Build with:
-
-```bash
-./gradlew build
-```
-
-## Credits
-
-Created by ShesXPWaste.
+Created by ShesXPWaste. If you're enjoying this plugin and would like to show support, you may donate via [PayPal](paypal.me/brendanhulla99)
