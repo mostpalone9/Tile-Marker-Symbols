@@ -82,4 +82,4 @@ Please feel free to make suggestions, report bugs, or fork the plugin.
 
 ## Credits & Donations
 
-Created by ShesXPWaste. If you're enjoying this plugin and would like to show support, you may donate via [PayPal](paypal.me/brendanhulla99)
+Created by ShesXPWaste. If you're enjoying this plugin and would like to show support, you may donate via [PayPal](https://paypal.me/brendanhulla99)
